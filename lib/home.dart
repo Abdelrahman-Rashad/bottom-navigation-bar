@@ -105,39 +105,3 @@ class _HomeState extends State<Home> {
     );
   }
 }
-/*
-BottomNavigationBar(
-        items: const <BottomNavigationBarItem>[
-          BottomNavigationBarItem(
-            icon: Icon(
-              Icons.menu,
-            ),
-            label: 'This',
-            backgroundColor: Colors.red,
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(
-              Icons.add,
-            ),
-            label: 'is',
-            backgroundColor: Colors.green,
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(
-              Icons.settings,
-            ),
-            label: 'Bottom',
-            backgroundColor: Colors.greenAccent,
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(
-              Icons.school,
-            ),
-            label: 'Bar',
-            backgroundColor: Colors.grey,
-          ),
-        ],
-        currentIndex: _selectindex,
-        selectedItemColor: Colors.amber,
-        onTap: _changeindex,
-      ),*/
